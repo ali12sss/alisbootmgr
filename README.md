@@ -4,7 +4,7 @@ A cross-platform GUI tool to manage UEFI boot entries. Rename, reorder, delete, 
 
 ## 🐧 Linux (Arch/Cinnamon)
 To install and add the app to your application menu:
-1. `git clone https://github.com/YOUR_USERNAME/alisbootmgr.git`
+1. `git clone https://github.com/ali12sss/alisbootmgr.git`
 2. `cd alisbootmgr`
 3. `chmod +x install.sh && ./install.sh`
 
