@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Ali's Boot Manager
+Comment=Manage UEFI Boot Entries
+Exec=pkexec /usr/local/bin/alisbootmgr
+Icon=system-run
+Categories=System;Settings;
+Terminal=false
